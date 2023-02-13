@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("Hello,Git4");
         System.out.println("master");
         System.out.println("hot_fix");
+        System.out.println("test");
     }
 }
